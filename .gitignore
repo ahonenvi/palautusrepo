@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 .coverage
 .venv/
+output.xml
+log.html
+report.html
